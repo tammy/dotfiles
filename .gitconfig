@@ -1,0 +1,9 @@
+[user]
+	name = Tammy Liu
+	email = tammy.liu.x@gmail.com
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	undo = reset --soft HEAD^
+	fix = commit -a --amend --no-edit
