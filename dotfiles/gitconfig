@@ -7,3 +7,5 @@
 	br = branch
 	undo = reset --soft HEAD^
 	fix = commit -a --amend --no-edit
+[push]
+	default = current
