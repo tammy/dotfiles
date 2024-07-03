@@ -9,3 +9,5 @@
 	fix = commit -a --amend --no-edit
 [push]
 	default = current
+[init]
+	defaultBranch = main
